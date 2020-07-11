@@ -116,11 +116,57 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - pandas, seaborn, numpy, itertools
     - melt, wide_to_long, duplicated, drop, set_index, reset_index, asfarray, astype, groupby, pivot_table, crosstab, aggregate, agg, to_html, transform
 
-### [\[202005012\] Pandas를 통한 데이터 분석 (1)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200512%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200512\] Pandas를 통한 데이터 분석 (1)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200512%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     - 추천 시스템
     - pandas
     - merge, join, pivot, stack, unstack, corr, sort_values, nlargest, intersection
     
+### [\[20200513\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200513%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+
+### [\[20200514\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200514%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200515\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200515%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C%20.ipynb)
+    
+### [\[20200518\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200518%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200519\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200519%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200520\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200520%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200521\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200521%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200522\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200522%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200525\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200525%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200526\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200526%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200527\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200527%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200528\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200528%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200529\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200529%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200601\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200601%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200602\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200602%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200603\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200603%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200604\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200604%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    
+### [\[20200605\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200605%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+
+### [\[20200608\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200608%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+
+### \[20200609\]
+
+### [\[20200610\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200610%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+
+### \[20200611\]
+
+### \[20200612\]
+
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
