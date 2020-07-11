@@ -121,51 +121,51 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - pandas
     - merge, join, pivot, stack, unstack, corr, sort_values, nlargest, intersection
     
-### [\[20200513\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200513%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200513\] Pandas를 통한 데이터 분석 (2)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200513%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
 
-### [\[20200514\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200514%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200514\] Pandas를 통한 데이터 분석 (3)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200514%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200515\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200515%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C%20.ipynb)
+### [\[20200515\] 인공지능 개론 / 기계학습 이해 - scikit-learn (1)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200515%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C%20.ipynb)
     
-### [\[20200518\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200518%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200518\] 기계학습 이해 - scikit-learn (2)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200518%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200519\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200519%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200519\] 기계학습 이해 - scikit-learn (3)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200519%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200520\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200520%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200520\] 기계학습 이해 - scikit-learn (4)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200520%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200521\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200521%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200521\] 기계학습 이해 - scikit-learn (5)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200521%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200522\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200522%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200522\] 기계학습 이해 - scikit-learn (6)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200522%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200525\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200525%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200525\] 기계학습 이해 - scikit-learn (7)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200525%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200526\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200526%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200526\] 기계학습 이해 - scikit-learn (8)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200526%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200527\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200527%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200527\] 기계학습 이해 - scikit-learn (9)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200527%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200528\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200528%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200528\] 기계학습 이해 - scikit-learn (10)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200528%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200529\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200529%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200529\] 딥러닝 이해 - keras/tensorflow (1)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200529%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200601\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200601%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200601\] 딥러닝 이해 - keras/tensorflow (2)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200601%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200602\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200602%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200602\] 딥러닝 이해 - keras/tensorflow (3)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200602%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200603\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200603%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200603\] 딥러닝 이해 - keras/tensorflow (4)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200603%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200604\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200604%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200604\] 딥러닝 이해 - keras/tensorflow (5)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200604%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     
-### [\[20200605\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200605%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200605\] 딥러닝 이해 - keras/tensorflow (6)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200605%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
 
-### [\[20200608\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200608%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200608\] 딥러닝 이해 - keras/tensorflow (7)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200608%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
 
-### \[20200609\]
+### \[20200609\ 딥러닝 이해 - keras/tensorflow (8)]
 
-### [\[20200610\]](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200610%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200610\] 딥러닝 이해 - keras/tensorflow (9)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200610%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
 
-### \[20200611\]
+### \[20200611\] 딥러닝 이해 - keras/tensorflow (10)
 
-### \[20200612\]
+### \[20200612\] 최종 복습
 
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
